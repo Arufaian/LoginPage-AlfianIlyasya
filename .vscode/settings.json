@@ -1,0 +1,7 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 15,
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+
+  "editor.wordWrap": "on"
+}
